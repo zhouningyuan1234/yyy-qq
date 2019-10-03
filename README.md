@@ -8,5 +8,6 @@
 	</head>
 	<body>
 		<h1><center>团主qq</center></h1>
-		<div>2889293639</div>
+		<div><span class="purple">2889293639</span></div>
+	</body>
 </html>
